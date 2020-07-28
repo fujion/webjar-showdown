@@ -1,0 +1,5 @@
+{
+  "paths": {
+    "showdown": "dist/showdown.js"
+  }
+}
